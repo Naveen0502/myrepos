@@ -1,0 +1,3 @@
+[submodule "myrepos"]
+	path = myrepos
+	url = https://github.com/Naveen0502/myrepos.git
